@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick &/and simple.
 Test merge with  --no-ff.
 Now I am using smartgit.
+Continue develop the code of master.
