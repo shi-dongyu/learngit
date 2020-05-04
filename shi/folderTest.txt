@@ -1,2 +1,3 @@
 HAHAH
 Here I develop a new function.
+Here I develop a new function has feature3.
